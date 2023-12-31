@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- jane kitne dino ke baad gali me aaj chand nikla
+
 - 
 <!---
 Abhisek-rungta6602027/Abhisek-rungta6602027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
